@@ -36,7 +36,7 @@ The goal is to compute the disparity map for a left view of a rectified stereo p
       med: 1.333
       avg: 16.373
       ``` 
-    ![Art-9-SSD](./outputs/Art-9-SSD?raw=true)
+    ![Art-9-SSD](./outputs/Art-9-SSD.png?raw=true)
    - 15-NCC
       ```
       bed4 (In percent %): 42.831
@@ -112,7 +112,7 @@ The goal is to compute the disparity map for a left view of a rectified stereo p
       med: 1.0
       avg: 21.999
       ```
-    ![Moebius-3-NCC](./outputs/Moebius-3-NCC.png?raw=true)
+     ![Moebius-3-NCC](./outputs/Moebius-3-NCC.png?raw=true)
    - 3-SSD
       ```
       bed4 (In percent %): 96.369
@@ -120,7 +120,7 @@ The goal is to compute the disparity map for a left view of a rectified stereo p
       med: 33.0
       avg: 35.706
       ```
-    ![Moebius-3-SSD.png](./outputs/Moebius-3-SSD.png?raw=true)
+     ![Moebius-3-SSD.png](./outputs/Moebius-3-SSD.png?raw=true)
    - 9-NCC
       ```
       bed4 (In percent %): 23.699
@@ -128,7 +128,7 @@ The goal is to compute the disparity map for a left view of a rectified stereo p
       med: 0.333
       avg: 9.662
       ```
-    ![Moebius-9-NCC](./outputs/Moebius-9-NCC.png?raw=true)
+     ![Moebius-9-NCC](./outputs/Moebius-9-NCC.png?raw=true)
    - 9-SSD
       ```
       bed4 (In percent %): 26.8 
@@ -136,7 +136,7 @@ The goal is to compute the disparity map for a left view of a rectified stereo p
       med: 0.333
       avg: 7.96
       ```
-    ![Moebius-9-SSD.png](./outputs/Moebius-9-SSD.png?raw=true)
+     ![Moebius-9-SSD.png](./outputs/Moebius-9-SSD.png?raw=true)
    - 15-NCC
       ```
       bed4 (In percent %): 25.168
@@ -144,7 +144,7 @@ The goal is to compute the disparity map for a left view of a rectified stereo p
       med: 0.333
       avg: 9.039
       ```
-    ![Moebius-15-NCC](./outputs/Moebius-15-NCC.png?raw=true)
+     ![Moebius-15-NCC](./outputs/Moebius-15-NCC.png?raw=true)
    - 15-SSD
       ```
       bed4 (In percent %): 26.341
@@ -152,7 +152,7 @@ The goal is to compute the disparity map for a left view of a rectified stereo p
       med: 0.333
       avg: 6.776
       ``` 
-    ![Moebius-15-SSD](./outputs/Moebius-15-SSD.png?raw=true)
+     ![Moebius-15-SSD](./outputs/Moebius-15-SSD.png?raw=true)
 
 ## Authors:
 - [Husam Lucia](https://www.linkedin.com/in/husam-lucia-6841b51a3)
